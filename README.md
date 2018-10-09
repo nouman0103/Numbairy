@@ -1,11 +1,11 @@
 <sup>_Copyright Black Thunder (BT)_</sup>
 
 
-# Numberry:
-Numberry is a new simple programming language made for fun which only consists and work for numbers.  
+# Numbairy:
+Numbairy is a new simple programming language made for fun which only consists and work for numbers.  
 Version _:_ 1.0
 ### Description:
-   "Numberry" is a language consisting of numbers only. It is tough to use.
+   "Numbairy" is a language consisting of numbers only. It is tough to use.
 ### Commands:
     --} 001  :  help
     --} 000  :  exit

@@ -3,14 +3,14 @@
 
 # Numbairy:
 Numbairy is a new simple programming language made for fun which only consists and work for numbers.  
-Version _:_ 1.1
+`Version `_`:`_` 1.1`
 ### Description:
    "Numbairy" is a language consisting of numbers only. It is tough to use.
 ### Commands:
 
     --} 001  :  help
     --} 000  :  exit
-    --} 002 :  version
+    --} 002  :  version
     --} 123  :  sum
     --} 111  :  subtraction
     --} 135  :  multiplication
@@ -37,6 +37,26 @@ Version _:_ 1.1
     --} `2`=123=`2`  >> returns 4
     --} :>=:>=`1`=123=`2`=<:=111=`2`=<:=123=`4`  >> returns 5 because ((1+2)-2)+4 = 5
     --} :>=`2`=123=`2`=<:=135=`3`  >> returns 12 because (2+2)*3 = 12
+
+### Examples with comparison:  
+
+               Numbairy                 |         Real
+    `1`=123=`2`                         |    1+2
+    `5`=111=`3`                         |    5-3
+    `5`=135=`2`                         |    5*2
+    `2`=789=`2`                         |    2^2
+    `2`=975=`2`                         |    2/2
+    `2`=963=`2`                         |    2//2
+    `3`=010=`2`                         |    3%2
+    :>=`2`=<:                           |    (2)
+    :>=`1`=123=`2`=<:                   |    (1+2)
+    :>=`1`=111=`2`=<:                   |    (1-2)
+    :>=:>=`1`=123=`2`=<:=111=`3`=<:     |    ((1+2)-3)
+    :>=:>=`10`=975=`2`=<:=123=`1`=<:    |    ((10/2)+1)
+
+
+
+
 
 
 For bugs or features, please contact me on this repo.

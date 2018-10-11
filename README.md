@@ -8,9 +8,11 @@ Numbairy is a new simple programming language made for fun which only consists a
    "Numbairy" is a language consisting of numbers only. It is tough to use.
 ### Commands:
 
-    --} 001  :  help
     --} 000  :  exit
+    --} 001  :  help
     --} 002  :  version
+    --} 003  :  copyright
+    --} 004  :  clear
     --} 123  :  sum
     --} 111  :  subtraction
     --} 135  :  multiplication
@@ -58,5 +60,5 @@ Numbairy is a new simple programming language made for fun which only consists a
 
 
 
-
+**First Release**
 For bugs or features, please contact me on this repo.

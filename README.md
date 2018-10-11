@@ -27,6 +27,8 @@ Numbairy is a new simple programming language made for fun which only consists a
 
 ### Usage:
 
+Open `Numbairy.exe`(The terminal).  
+Note:  
     --} numbers should be seperated by `
     --} there should be equal(=) sign between each numbers and commands
     --} numbers without ` will result in error

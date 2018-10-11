@@ -1,5 +1,5 @@
-<sup>_Copyright Black Thunder (BT)_</sup>
-
+<sup>_Copyright Black Thunder (BT)_</sup>  
+<img src="https://imgur.com/GwcvM5n.png" width="30%" height="30%" />
 
 # Numbairy:
 Numbairy is a new simple programming language made for fun which only consists and work for numbers.  

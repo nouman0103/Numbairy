@@ -63,5 +63,5 @@ Note:
 
 
 
-**First Release**  
+**First Release!**  
 For bugs or features, please contact me on this repo.

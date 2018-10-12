@@ -72,6 +72,7 @@ Note:
 
 
 **First Release!**  
+Please star and watch this repo.  
 For bugs or features, please contact me on this repo.
 
 

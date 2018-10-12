@@ -60,8 +60,20 @@ Note:
     :>=:>=`10`=975=`2`=<:=123=`1`=<:    |    ((10/2)+1)
 
 
+### Commands name:
 
+    Addition
+    Subtraction
+    Multiplication
+    Division
+    Floor Division
+    X^power  (Power of a number X)
+    Modulus
 
 
 **First Release!**  
 For bugs or features, please contact me on this repo.
+
+
+
+<sup><sup><sup><sup>Upcoming command: variables</sup></sup></sup></sup>

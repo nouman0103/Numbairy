@@ -70,10 +70,14 @@ Note:
     X^power  (Power of a number X)
     Modulus
 
+### Screenshot of Terminal:  
 
+<img src="https://imgur.com/VFK9UkS.png" />
+
+<hr>  
 **First Release!**  
 Please star and watch this repo.  
-For bugs or features, please contact me on this repo.
+For bugs or features, please contact me on this repo.  
 
 
 
